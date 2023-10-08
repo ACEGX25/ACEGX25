@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ACEGX25
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me mail
+Learing Web Development.😼
 
 <!---
 ACEGX25/ACEGX25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
