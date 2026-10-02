@@ -13,8 +13,8 @@
 
 ## Featured projects
 
-- **[QuickServe](https://github.com/ACEGX25/REPLACE-WITH-REPO-NAME)**: role-based service marketplace (Spring Boot, React, PostgreSQL) with JWT authentication, service discovery, bookings and availability management.
-- **[HirePrepAI](https://github.com/ACEGX25/REPLACE-WITH-REPO-NAME)**: ML pipeline that scores resume skill gaps against job descriptions using Sentence-Transformers, with a DistilBERT classifier fine-tuned on 1.5M job postings and personalized upskilling roadmaps via Ollama.
+- **[QuickServe](https://github.com/ACEGX25/QuickServe)**: role-based service marketplace (Spring Boot, React, PostgreSQL) with JWT authentication, service discovery, bookings and availability management.
+- **[HirePrepAI](https://github.com/ACEGX25/hireprep-ai-ui)**: ML pipeline that scores resume skill gaps against job descriptions using Sentence-Transformers, with a DistilBERT classifier fine-tuned on 1.5M job postings and personalized upskilling roadmaps via Ollama.
 
 ## Experience highlights
 
