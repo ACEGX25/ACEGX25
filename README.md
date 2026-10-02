@@ -1,5 +1,30 @@
-# 💫 About Me:
-Greetings! (SILLYCAT here)<br>I'm an eager learner, particularly fascinated by the potential of AI.  Currently, I'm on a full-stack development adventure, ready to explore its depths.<br><br>This repository is my code sandbox, where I'll be documenting my learning journey, experiments, and projects.  Feel free to peek around and see what I'm up to!<br><br>What's inside?<br><br>Current Projects: A glimpse into the ongoing projects I'm tinkering with.<br>Learning Treasures: A collection of helpful resources (tutorials, articles, docs) that have been valuable on my path. (Consider adding links to these resources in the future as you find them!)<br>Future Explorations: A list of exciting areas within AI and full-stack development I'm eager to delve into.<br>I'm always open to feedback, collaboration, and suggestions!  Feel free to reach out and connect.<br><br>**Onwards and upwards! **
+# Hi, I'm Geetesh Karjavkar
+
+**Java / Spring Boot full stack developer** based in Pune, India. IT graduate (CGPA 8.55) with two internships building secure REST APIs and production web applications. Open to Software Engineer / Full Stack roles.
+
+## What I work with
+
+- **Backend:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, REST API design, Node.js, Express
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
+- **Databases:** SQL, PostgreSQL, MySQL, Prisma
+- **Testing:** JUnit, Mockito
+- **Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code, Linux
+- **Also:** Python (ML projects), C/C++
+
+## Featured projects
+
+- **[QuickServe](https://github.com/ACEGX25/REPLACE-WITH-REPO-NAME)**: role-based service marketplace (Spring Boot, React, PostgreSQL) with JWT authentication, service discovery, bookings and availability management.
+- **[HirePrepAI](https://github.com/ACEGX25/REPLACE-WITH-REPO-NAME)**: ML pipeline that scores resume skill gaps against job descriptions using Sentence-Transformers, with a DistilBERT classifier fine-tuned on 1.5M job postings and personalized upskilling roadmaps via Ollama.
+
+## Experience highlights
+
+- **Primaverse Digital** (Full Stack Developer Intern, Feb 2026 to Sep 2026): contributed to 120+ REST APIs on an in-house HRMS product (private), and built the company website, [primaversedigital.com](https://primaversedigital.com), with a team of 3 (I owned the frontend animations).
+- **Infosys Springboard** (Java Full Stack Developer Intern, Nov 2025 to Feb 2026): built a sports performance platform with 12+ REST APIs, JWT authentication and role-based access control, plus JUnit/Mockito unit tests.
+
+## Get in touch
+
+- Email: [geeteshkarjavkar@gmail.com](mailto:geeteshkarjavkar@gmail.com)
+- LinkedIn: [REPLACE-WITH-YOUR-LINKEDIN-URL](https://linkedin.com/in/acegx25/)
 
 
 # 💻 Tech Stack:
