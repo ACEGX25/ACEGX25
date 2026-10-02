@@ -24,7 +24,7 @@
 ## Get in touch
 
 - Email: [geeteshkarjavkar@gmail.com](mailto:geeteshkarjavkar@gmail.com)
-- LinkedIn: [REPLACE-WITH-YOUR-LINKEDIN-URL](https://linkedin.com/in/acegx25/)
+- LinkedIn: [Geetesh Karjavkar](https://linkedin.com/in/acegx25/)
 
 
 # 💻 Tech Stack:
